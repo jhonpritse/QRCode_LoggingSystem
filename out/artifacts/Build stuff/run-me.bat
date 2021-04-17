@@ -1,0 +1,1 @@
+java -jar QR_Code_Project.jar

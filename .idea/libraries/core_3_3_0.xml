@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="core-3.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Downloads/QR-Code-em-Java-master/QR-Code-em-Java-master/lib/core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/QR-Code-em-Java-master/QR-Code-em-Java-master/lib/webcam-capture-0.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/QR-Code-em-Java-master/QR-Code-em-Java-master/lib/javase-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

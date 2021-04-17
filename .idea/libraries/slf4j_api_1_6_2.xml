@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Downloads/QR-Code-em-Java-master/QR-Code-em-Java-master/lib/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Downloads/QR-Code-em-Java-master/QR-Code-em-Java-master/lib/slf4j-log4j12-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
